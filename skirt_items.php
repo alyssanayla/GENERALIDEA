@@ -76,28 +76,28 @@
           <img id="skirt_4" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/SKIRT 4.jpg">
         </div>
         <div class="col-3 text-center">
-          <img id="skirt_5" judul="Eco-leather pintuck [BROWN]" harga="$49" class="img-fluid" src="assets/img/SKIRT 5.jpg">
+          <img id="skirt_5" judul="Eco-leather pintuck [BROWN]" harga="$49" class="img-fluid rounded-4" src="assets/img/SKIRT 5.jpg">
         </div>
         <div class="col-3 text-center">
-          <img id="skirt_6" judul="pintuck [BROWN]" harga="$30" class="img-fluid" src="assets/img/SKIRT 6.jpg">
+          <img id="skirt_6" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/SKIRT 6.jpg">
         </div>
         <div class="col-3 text-center">
-          <img id="skirt_7" judul="pintuck [BROWN]" harga="$30" class="img-fluid" src="assets/img/SKIRT 7.jpg">
+          <img id="skirt_7" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/SKIRT 7.jpg">
         </div>
         <div class="col-3 text-center">
-          <img id="skirt_8" judul="pintuck [BROWN]" harga="$30" class="img-fluid" src="assets/img/SKIRT 8.jpg">
+          <img id="skirt_8" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/SKIRT 8.jpg">
         </div>
         <div class="col-3 text-center">
-          <img id="skirt_9" judul="pintuck [BROWN]" harga="$30" class="img-fluid" src="assets/img/SKIRT 9.jpg">
+          <img id="skirt_9" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/SKIRT 9.jpg">
         </div>
         <div class="col-3 text-center">
-          <img id="skirt_10" judul="pintuck [BROWN]" harga="$30" class="img-fluid" src="assets/img/SKIRT 10.jpg">
+          <img id="skirt_10" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/SKIRT 10.jpg">
         </div>
         <div class="col-3 text-center">
-          <img id="skirt_11" judul="pintuck [BROWN]" harga="$30" class="img-fluid" src="assets/img/SKIRT 11.jpg">
+          <img id="skirt_11" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/SKIRT 11.jpg">
         </div>
         <div class="col-3 text-center">
-          <img id="skirt_12" judul="pintuck [BROWN]" harga="$30" class="img-fluid" src="assets/img/SKIRT 12.jpg">
+          <img id="skirt_12" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/SKIRT 12.jpg">
         </div>
 
       </div>

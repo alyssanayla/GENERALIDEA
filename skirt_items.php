@@ -50,21 +50,30 @@
     </nav>
   </header>
   <main class="main">
-   <section class="team section light-background">
-    <div class="container">
-      <div class="row g-5">
-        <h1 class="text-center">SKIRT</h1>
+  <section class="category_items light-background">
+      <div class="container mt-5">
+        <div class="row gy-4 gx-5">
+          <div class="col-12 text-start">
+            <h1 style="font-size: 15px;">
+              <a href="top_items.php">Topㅤㅤ</a>
+              <a href="outerwear_items.php">Outerwearㅤㅤ</a>
+              <a href="skirt_items.php">Skirtㅤㅤ</a>
+              <a href="bottom_items.php">Bottomㅤㅤ</a>
+              <a href="dress_items.php">Dressㅤㅤ</a>
+              <a href="acc_items.php">Acc</a>
+            </h1>
+          </div>
         <div class="col-3 text-center">
-          <img id="skirt_1" judul="Eco-leather pintuck [BROWN]" harga="$49" class="img-fluid" src="assets/img/SKIRT 1.jpg">
+          <img id="skirt_1" judul="Eco-leather pintuck [BROWN]" harga="$49" class="img-fluid rounded-4" src="assets/img/SKIRT 1.jpg">
         </div>
         <div class="col-3 text-center">
-          <img id="skirt_2" judul="pintuck [BROWN]" harga="$30" class="img-fluid" src="assets/img/SKIRT 2.jpg">
+          <img id="skirt_2" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/SKIRT 2.jpg">
         </div>
         <div class="col-3 text-center">
-          <img id="skirt_3" judul="Eco-leather pintuck [BROWN]" harga="$49" class="img-fluid" src="assets/img/SKIRT 3.jpg">
+          <img id="skirt_3" judul="Eco-leather pintuck [BROWN]" harga="$49" class="img-fluid rounded-4" src="assets/img/SKIRT 3.jpg">
         </div>
         <div class="col-3 text-center">
-          <img id="skirt_4" judul="pintuck [BROWN]" harga="$30" class="img-fluid" src="assets/img/SKIRT 4.jpg">
+          <img id="skirt_4" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/SKIRT 4.jpg">
         </div>
         <div class="col-3 text-center">
           <img id="skirt_5" judul="Eco-leather pintuck [BROWN]" harga="$49" class="img-fluid" src="assets/img/SKIRT 5.jpg">

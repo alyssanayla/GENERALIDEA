@@ -50,10 +50,19 @@
     </nav>
   </header>
   <main class="main">
-   <section class="team section light-background">
-    <div class="container">
-      <div class="row g-5">
-        <h1 class="text-center">BOTTOM</h1>
+  <section class="category_items light-background">
+      <div class="container mt-5">
+        <div class="row gy-4 gx-5">
+          <div class="col-12 text-start">
+            <h1 style="font-size: 15px;">
+              <a href="top_items.php">Topㅤㅤ</a>
+              <a href="outerwear_items.php">Outerwearㅤㅤ</a>
+              <a href="skirt_items.php">Skirtㅤㅤ</a>
+              <a href="bottom_items.php">Bottomㅤㅤ</a>
+              <a href="dress_items.php">Dressㅤㅤ</a>
+              <a href="acc_items.php">Acc</a>
+            </h1>
+          </div>
         <div class="col-3 text-center">
           <img id="bottom_1" judul="Eco-leather pintuck [BROWN]" harga="$49" class="img-fluid" src="assets/img/BOTTOM 1.jpg">
         </div>

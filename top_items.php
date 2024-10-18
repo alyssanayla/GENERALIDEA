@@ -177,7 +177,7 @@
                     </div>
                     <div class="col-6">
                     <div class="d-grid gap-2">
-                    <button type="button" class="btn btn-outline-primary">ADD TO CART</button>
+                    <button type="button" class="btn btn-outline-dark">ADD TO CART</button>
                     </div>
                   </div>
                   </div>

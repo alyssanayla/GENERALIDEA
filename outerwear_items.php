@@ -65,6 +65,7 @@
           </div>
         <div class="col-3 text-center">
           <img id="outerwear_1" judul="Eco-leather pintuck [BROWN]" harga="$49" class="img-fluid" src="assets/img/OUTERWEAR 1.jpg">
+          <p class="items_ket">Wool Turtleneck [BURGUNDURY]</br><span>$32</span></p>
         </div>
         <div class="col-3 text-center">
           <img id="outerwear_2" judul="pintuck [BROWN]" harga="$30" class="img-fluid" src="assets/img/OUTERWEAR 2.jpg">

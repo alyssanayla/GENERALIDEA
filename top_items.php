@@ -32,17 +32,12 @@
         </a>
       </div>
     </div>
-    <div class="col-3">
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
+    <div class="col-3 collapse navbar-collapse d-flex justify-content-center align-items-center" id="navbarNav">
           <ul class="list-group list-inline list-group-horizontal">
-            <li class="mx-3"><a href="index.php"><i class="fa-solid fa-house"></i> Home</a></li>
-            <li class="mx-3"><a href="#about"><i class="fa-solid fa-cart-shopping"></i> Cart</a></li>
-            <li class="mx-3"><a href="#team"><i class="fa-solid fa-user"></i> Login</a></li>
+            <li class="mx-4"><a href="index.php"><i class="fa-solid fa-house"></i></a></li>
+            <li class="mx-4"><a href="cart.php"><i class="fa-solid fa-cart-shopping"></i></a></li>
+            <li class="mx-4"><a href="login.php"><i class="fa-solid fa-user"></i></a></li>
           </ul>
-        </div>
     </div>
   </div>
 </nav>
@@ -63,58 +58,58 @@
             </h1>
           </div>
           <div class="col-3 text-center">
-            <img id="top_1" judul="Wool Turtleneck [BURGUNDURY]" harga="32" class="items_img img-fluid rounded-4" src="assets/img/TOP 1.jpg">
+            <img id="top_1" judul="Wool Turtleneck [BURGUNDURY]" harga="32" class="items_img img-fluid rounded-4" src="assets/img/top1.jpg">
             <p class="items_ket">Wool Turtleneck [BURGUNDURY]</br><span>$32</span></p>
           </div>
           <div class="col-3 text-center">
-            <img id="top_2" judul="Lettering T-Shirt [GREY]" harga="36" class="items_img img-fluid rounded-4" src="assets/img/TOP 2.jpg">
+            <img id="top_2" judul="Lettering T-Shirt [GREY]" harga="36" class="items_img img-fluid rounded-4" src="assets/img/top2.jpg">
             <p class="items_ket">Lettering T-Shirt [GREY]</br><span>$36</span></p>
           </div>
           <div class="col-3 text-center">
-            <img id="top_3" judul="Pearl Knitwear [PINK]" harga="39" class="items_img img-fluid rounded-4" src="assets/img/TOP 3.jpg">
+            <img id="top_3" judul="Pearl Knitwear [PINK]" harga="39" class="items_img img-fluid rounded-4" src="assets/img/top3.jpg">
             <p class="items_ket">Pearl Knitwear [PINK]</br><span>$39</span></p>
           </div>
           <div class="col-3 text-center">
-            <img id="top_4" judul="Linkless Shirt [KHAKI]" harga="29" class="items_img img-fluid rounded-4" src="assets/img/TOP 4.jpg">
+            <img id="top_4" judul="Linkless Shirt [KHAKI]" harga="29" class="items_img img-fluid rounded-4" src="assets/img/top4.jpg">
             <p class="items_ket">Linkless Shirt [KHAKI]</br><span>$29</span></p>
           </div>
           <div class="col-3 text-center">
-            <img id="top_5" judul="Belted Shirt [DARK BLUE]" harga="48" class="items_img img-fluid rounded-4" src="assets/img/TOP 5.jpg">
+            <img id="top_5" judul="Belted Shirt [DARK BLUE]" harga="48" class="items_img img-fluid rounded-4" src="assets/img/top5.jpg">
             <p class="items_ket">Belted Shirt [DARK BLUE]</br><span>$48</span></p>
           </div>
           <div class="col-3 text-center">
-            <img id="top_6" judul="Scarf V-Neck [BEIGE]" harga="33" class="items_img img-fluid rounded-4" src="assets/img/TOP 6.jpg">
+            <img id="top_6" judul="Scarf V-Neck [BEIGE]" harga="33" class="items_img img-fluid rounded-4" src="assets/img/top6.jpg">
             <p class="items_ket">Scarf V-Neck [BEIGE]</br><span>$33</span></p>
           </div>
           <div class="col-3 text-center">
-            <img id="top_7" judul="Postman T-Shirt [DUST BLUE]" harga="34" class="items_img img-fluid rounded-4" src="assets/img/TOP 7.jpg">
+            <img id="top_7" judul="Postman T-Shirt [DUST BLUE]" harga="34" class="items_img img-fluid rounded-4" src="assets/img/top7.jpg">
             <p class="items_ket">Postman T-Shirt [DUST BLUE]</br><span>$34</span></p>
           </div>
           <div class="col-3 text-center">
-            <img id="top_8" judul="Unbalanced T-Shirt BLACK]" harga="28" class="items_img img-fluid rounded-4" src="assets/img/TOP 8.jpg">
+            <img id="top_8" judul="Unbalanced T-Shirt BLACK]" harga="28" class="items_img img-fluid rounded-4" src="assets/img/top8.jpg">
             <p class="items_ket">Unbalanced T-Shirt [BLACK]</br><span>$28</span></p>
           </div>
           <div class="col-3 text-center">
-            <img id="top_9" judul="Striped T-Shirt [DEEP RED]" harga="26" class="items_img img-fluid rounded-4" src="assets/img/TOP 9.jpg">
+            <img id="top_9" judul="Striped T-Shirt [DEEP RED]" harga="26" class="items_img img-fluid rounded-4" src="assets/img/top9.jpg">
             <p class="items_ket">Striped T-Shirt [DEEP RED]</br><span>$26</span></p>
           </div>
           <div class="col-3 text-center">
-            <img id="top_10" judul="Square T-Shirt [BLACK]" harga="30" class="items_img img-fluid rounded-4" src="assets/img/TOP 10.jpg">
+            <img id="top_10" judul="Square T-Shirt [BLACK]" harga="30" class="items_img img-fluid rounded-4" src="assets/img/top10.jpg">
             <p class="items_ket">Square T-Shirt [BLACK]</br><span>$30</span></p>
           </div>
           <div class="col-3 text-center">
-            <img id="top_11" judul="Layered V-Neck [CHARCOAL]" harga="31" class="items_img img-fluid rounded-4" src="assets/img/TOP 11.jpg">
+            <img id="top_11" judul="Layered V-Neck [CHARCOAL]" harga="31" class="items_img img-fluid rounded-4" src="assets/img/top11.jpg">
             <p class="items_ket">Layered V-Neck [CHARCOAL]</br><span>$31</span></p>
           </div>
           <div class="col-3 text-center">
-            <img id="top_12" judul="Half Layered T-Shirt [KHAKI]" harga="42" class="items_img img-fluid rounded-4 rounded-4" src="assets/img/TOP 12.jpg">
+            <img id="top_12" judul="Half Layered T-Shirt [KHAKI]" harga="42" class="items_img img-fluid rounded-4 rounded-4" src="assets/img/top12.jpg">
             <p class="items_ket">Half Layered T-Shirt [KHAKI]</br><span>$42</span></p>
           </div>
         </div>
       </div>
     </section>
   </main>
-
+  
   <footer id="footer" class="footer">
     <div class="container footer-top">
       <div class="row gy-4">
@@ -135,6 +130,7 @@
       </div>
     </div>
   </footer>
+  <div class="copyright text-center p-2" style="font-family: Nunito;">© Copyright <span class="px-1 sitename" style="font-family: Sorts Mill Goudy, sans-serif;">GENERAL IDEA</span> All Rights Reserved</br>Designed by SK Company</div>
 
   <!-- Modal -->
   <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">

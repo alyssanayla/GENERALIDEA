@@ -42,6 +42,7 @@
   </div>
 </nav>
   </header>
+
   <main class="main">
     <!-- Hero Section -->
     <section id="hero" class="hero section light-background">
@@ -102,29 +103,28 @@
       <div class="container-fluid" style="padding: 50px 100px;">
         <div class="row g-5">
           <div class="col-4 text-center mb-5">
-            <img id="top" class="menu img-fluid rounded-4" src="assets/img/ITEMS 1.png" style="height: 450px;">
+            <img id="top" class="menu img-fluid rounded-4" src="assets/img/cat1.png" style="height: 450px;">
           </div>
           <div class="col-4 text-center mb-5">
-            <img id="outerwear" class="menu img-fluid rounded-4" src="assets/img/ITEMS 2.png" style="height: 450px" ;>
+            <img id="outerwear" class="menu img-fluid rounded-4" src="assets/img/cat2.png" style="height: 450px" ;>
           </div>
           <div class="col-4 text-center mb-5">
-            <img id="skirt" class="menu img-fluid rounded-4" src="assets/img/ITEMS 3.png" style="height: 450px" ;>
+            <img id="skirt" class="menu img-fluid rounded-4" src="assets/img/cat3.png" style="height: 450px" ;>
           </div>
           <div class="col-4 text-center mb-5">
-            <img id="bottom" class="menu img-fluid rounded-4" src="assets/img/ITEMS 4.png" style="height: 450px" ;>
+            <img id="bottom" class="menu img-fluid rounded-4" src="assets/img/cat4.png" style="height: 450px" ;>
           </div>
           <div class="col-4 text-center mb-5">
-            <img id="dress" class="menu img-fluid rounded-4" src="assets/img/ITEMS 5.png" style="height: 450px" ;>
+            <img id="dress" class="menu img-fluid rounded-4" src="assets/img/cat5.png" style="height: 450px" ;>
           </div>
           <div class="col-4 text-center mb-5">
-            <img id="acc" class="menu img-fluid rounded-4" src="assets/img/ITEMS 6.png" style="height: 450px" ;>
+            <img id="acc" class="menu img-fluid rounded-4" src="assets/img/cat6.png" style="height: 450px" ;>
           </div>
         </div>
       </div>
     </section>
-
-
   </main>
+
   <footer id="footer" class="footer">
     <div class="container footer-top">
       <div class="row gy-4">
@@ -145,8 +145,8 @@
       </div>
     </div>
   </footer>
-
   <div class="copyright text-center p-2" style="font-family: Nunito;">© Copyright <span class="px-1 sitename" style="font-family: Sorts Mill Goudy, sans-serif;">GENERAL IDEA</span> All Rights Reserved</br>Designed by SK Company</div>
+  
   <!-- Vendor JS Files -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
   <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>

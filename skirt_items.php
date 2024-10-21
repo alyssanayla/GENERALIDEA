@@ -23,32 +23,26 @@
 
 <body class="index-page">
   <header id="header" class="header sticky-top">
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
-      <div class="container text-center">
-        <div class="row">
-          <div class="col-md-4">
-            <a class="navbar-brand" href="#">
-              <img src="assets/img/logonav.png" alt="Bootstrap" width="250" height="60">
-            </a>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-mx-auto">
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-              <ul class="list-group list-inline list-group-horizontal">
-                <li class="mx-1"><a href="index.php"><i class="fa-solid fa-house"></i> Home</a></li>
-                <li class="mx-1"><a href="#about"><i class="fa-solid fa-cart-shopping"></i> Cart</a></li>
-                <li class="mx-1"><a href="#team"><i class="fa-solid fa-user"></i>Login</a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
+  <nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid text-center">
+    <div class="col-9">
+      <div style="margin-left: 20rem;">
+        <a class="navbar-brand" href="#">
+          <img src="assets/img/logonav.png" alt="Bootstrap" width="250" height="60">
+        </a>
       </div>
-    </nav>
+    </div>
+    <div class="col-3 collapse navbar-collapse d-flex justify-content-center align-items-center" id="navbarNav">
+          <ul class="list-group list-inline list-group-horizontal">
+            <li class="mx-4"><a href="index.php"><i class="fa-solid fa-house"></i></a></li>
+            <li class="mx-4"><a href="cart.php"><i class="fa-solid fa-cart-shopping"></i></a></li>
+            <li class="mx-4"><a href="login.php"><i class="fa-solid fa-user"></i></a></li>
+          </ul>
+    </div>
+  </div>
+</nav>
   </header>
+
   <main class="main">
   <section class="category_items light-background">
       <div class="container mt-5">
@@ -64,40 +58,40 @@
             </h1>
           </div>
         <div class="col-3 text-center">
-          <img id="skirt_1" judul="Eco-leather pintuck [BROWN]" harga="$49" class="img-fluid rounded-4" src="assets/img/SKIRT 1.jpg">
+          <img id="skirt_1" judul="Eco-leather pintuck [BROWN]" harga="$49" class="img-fluid rounded-4" src="assets/img/skirt1.jpg">
         </div>
         <div class="col-3 text-center">
-          <img id="skirt_2" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/SKIRT 2.jpg">
+          <img id="skirt_2" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/skirt2.jpg">
         </div>
         <div class="col-3 text-center">
-          <img id="skirt_3" judul="Eco-leather pintuck [BROWN]" harga="$49" class="img-fluid rounded-4" src="assets/img/SKIRT 3.jpg">
+          <img id="skirt_3" judul="Eco-leather pintuck [BROWN]" harga="$49" class="img-fluid rounded-4" src="assets/img/skirt3.jpg">
         </div>
         <div class="col-3 text-center">
-          <img id="skirt_4" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/SKIRT 4.jpg">
+          <img id="skirt_4" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/skirt4.jpg">
         </div>
         <div class="col-3 text-center">
-          <img id="skirt_5" judul="Eco-leather pintuck [BROWN]" harga="$49" class="img-fluid rounded-4" src="assets/img/SKIRT 5.jpg">
+          <img id="skirt_5" judul="Eco-leather pintuck [BROWN]" harga="$49" class="img-fluid rounded-4" src="assets/img/skirt5.jpg">
         </div>
         <div class="col-3 text-center">
-          <img id="skirt_6" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/SKIRT 6.jpg">
+          <img id="skirt_6" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/skirt6.jpg">
         </div>
         <div class="col-3 text-center">
-          <img id="skirt_7" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/SKIRT 7.jpg">
+          <img id="skirt_7" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/skirt7.jpg">
         </div>
         <div class="col-3 text-center">
-          <img id="skirt_8" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/SKIRT 8.jpg">
+          <img id="skirt_8" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/skirt8.jpg">
         </div>
         <div class="col-3 text-center">
-          <img id="skirt_9" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/SKIRT 9.jpg">
+          <img id="skirt_9" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/skirt9.jpg">
         </div>
         <div class="col-3 text-center">
-          <img id="skirt_10" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/SKIRT 10.jpg">
+          <img id="skirt_10" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/skirt10.jpg">
         </div>
         <div class="col-3 text-center">
-          <img id="skirt_11" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/SKIRT 11.jpg">
+          <img id="skirt_11" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/skirt11.jpg">
         </div>
         <div class="col-3 text-center">
-          <img id="skirt_12" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/SKIRT 12.jpg">
+          <img id="skirt_12" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/skirt12.jpg">
         </div>
 
       </div>
@@ -107,76 +101,26 @@
 
 </main>
 <footer id="footer" class="footer">
-  <div class="footer-newsletter">
-    <div class="container">
-      <div class="row justify-content-center text-center">
-        <div class="col-lg-6">
-          <h4>Join Our Newsletter</h4>
-          <p>Subscribe to our newsletter and receive the latest news about our products and services!</p>
-          <form action="forms/newsletter.php" method="post" class="php-email-form">
-            <div class="newsletter-form"><input type="email" name="email"><input type="submit" value="Subscribe"></div>
-            <div class="loading">Loading</div>
-            <div class="error-message"></div>
-            <div class="sent-message">Your subscription request has been sent. Thank you!</div>
-          </form>
+    <div class="container footer-top">
+      <div class="row gy-4">
+        <div class="col-lg-5 pt-3 footer-about">
+          <p><i class="fa-brands fa-square-instagram"></i> INSTAGRAM</p>
+          <p><i class="fa-brands fa-square-youtube"></i> YOUTUBE</p>
+          <p><i class="fa-brands fa-square-pinterest"></i> PINTEREST</p>
+        </div>
+        <div class="col-lg-7 pt-3 text-end footer-contact">
+          <h3 style="font-family: Sorts Mill Goudy, serif;">CONTACT</h3>
+          <span style="font-family: Nunito, sans-serif;">COMPANY: Four Nicks Co., Ltd OWNER: Syane Kei</br>
+            OFFICE: (82)02-3442-0045 FAX: 02-546-6411 E-MAIL: generalidea@generalidea.co.kr</br>
+            BUSINESS NUMBER: 101-81-97942 MAIL-ORDER LICENSE: 2022-Seoul Seocho-1709</br>
+            ADDRESS: 06524 Daeseung Building, 5 Gangnam-daero 105-gil, Seocho-gu, Seoul (Jamwon-dong)</br>
+            Personal Information Protection Officer: Syane Kei (generalidea@generalidea.co.kr)</br>
+          </span>
         </div>
       </div>
     </div>
-  </div>
-  <div class="container footer-top">
-    <div class="row gy-4">
-      <div class="col-lg-4 col-md-6 footer-about">
-        <a href="index.php" class="d-flex align-items-center">
-          <span class="sitename">BizLand</span>
-        </a>
-        <div class="footer-contact pt-3">
-          <p>A108 Adam Street</p>
-          <p>New York, NY 535022</p>
-          <p class="mt-3"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
-          <p><strong>Email:</strong> <span>info@example.com</span></p>
-        </div>
-      </div>
-      <div class="col-lg-2 col-md-3 footer-links">
-        <h4>Useful Links</h4>
-        <ul>
-          <li><i class="bi bi-chevron-right"></i> <a href="#">Home</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="#">About us</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="#">Services</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="#">Terms of service</a></li>
-        </ul>
-      </div>
-      <div class="col-lg-2 col-md-3 footer-links">
-        <h4>Our Services</h4>
-        <ul>
-          <li><i class="bi bi-chevron-right"></i> <a href="#">Web Design</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="#">Web Development</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="#">Product Management</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="#">Marketing</a></li>
-        </ul>
-      </div>
-      <div class="col-lg-4 col-md-12">
-        <h4>Follow Us</h4>
-        <p>Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p>
-        <div class="social-links d-flex">
-          <a href=""><i class="bi bi-twitter-x"></i></a>
-          <a href=""><i class="bi bi-facebook"></i></a>
-          <a href=""><i class="bi bi-instagram"></i></a>
-          <a href=""><i class="bi bi-linkedin"></i></a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="container copyright text-center mt-4">
-    <p>© <span>Copyright</span> <strong class="px-1 sitename">BizLand</strong> <span>All Rights Reserved</span></p>
-    <div class="credits">
-      <!-- All the links in the footer should remain intact. -->
-      <!-- You can delete the links only if you've purchased the pro version. -->
-      <!-- Licensing information: https://bootstrapmade.com/license/ -->
-      <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-      Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-    </div>
-  </div>
-</footer>
+  </footer>
+  <div class="copyright text-center p-2" style="font-family: Nunito;">© Copyright <span class="px-1 sitename" style="font-family: Sorts Mill Goudy, sans-serif;">GENERAL IDEA</span> All Rights Reserved</br>Designed by SK Company</div>
 
 <!-- Modal -->
 <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">

@@ -598,7 +598,7 @@ background: linear-gradient(90deg, rgba(87,16,38,1) 17%, rgba(212,194,180,1) 53%
 section,
 .section {
   width: 100%;
-  min-height: 88.5vh;
+  min-height: 89vh;
   position: relative;
   display: flex;
   align-items: center;
@@ -860,7 +860,7 @@ font-family: "Nunito";
 }
 
 .container_about {
-  background: url('../img/ABOUT 1.png') top left;
+  background: url('../img/coba 1.png') top left;
   background-size: cover;
   background-position: center;
 }

@@ -21,7 +21,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 
-<body class="index-page">
+<body class="index_page">
   <header id="header" class="header sticky-top">
   <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid text-center">
@@ -32,17 +32,12 @@
         </a>
       </div>
     </div>
-    <div class="col-3">
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
+    <div class="col-3 collapse navbar-collapse d-flex justify-content-center align-items-center" id="navbarNav">
           <ul class="list-group list-inline list-group-horizontal">
-            <li class="mx-3"><a href="index.php"><i class="fa-solid fa-house"></i> Home</a></li>
-            <li class="mx-3"><a href="#about"><i class="fa-solid fa-cart-shopping"></i> Cart</a></li>
-            <li class="mx-3"><a href="#team"><i class="fa-solid fa-user"></i> Login</a></li>
+            <li class="mx-4"><a href="index.php"><i class="fa-solid fa-house"></i></a></li>
+            <li class="mx-4"><a href="cart.php"><i class="fa-solid fa-cart-shopping"></i></a></li>
+            <li class="mx-4"><a href="login.php"><i class="fa-solid fa-user"></i></a></li>
           </ul>
-        </div>
     </div>
   </div>
 </nav>
@@ -63,7 +58,7 @@
     <section id="about" class="container_about section light-background">
       <div class="container">
         <div class="row">
-          <div class="col-6 text-center d-flex justify-content-center align-items-center">>
+          <div class="col-7 text-center d-flex justify-content-center align-items-center">
             <div class="abouttext p-4 text-light" style="font-size: 20px;">
               <span>GENERAL IDEA</span> is a brand with</br>
                 mass appeal that can share its unique</br>
@@ -74,10 +69,10 @@
                 a new and unique identity.
             </div>
           </div>
-          <div class="col-4 d-flex justify-content-center align-items-center abouttext2">
+          <div class="col-2 d-flex justify-content-center align-items-center abouttext2">
           <img src="./assets/img/ABOUT 2.png" style="height: 400px;">
           </div>
-          <div class="col-2 d-flex justify-content-center align-items-center abouttext3">
+          <div class="col-1 d-flex justify-content-center align-items-center abouttext3">
           <img src="./assets/img/ABOUT 3.png" style="height: 400px;">
           </div>
         </div>
@@ -87,22 +82,19 @@
     <section class="items light-background" style="display: block;">
       <div class="container-fluid d-block justify-content-center align-items-center" style="background-color: #571026;">
         <div class="row">
-          <div class="col-1">
-
+          <div class="col-7 ms-5 d-flex justify-content-center align-items-center">
+            <img class="rounded-4 mx-2" src="./assets/img/ACC 1.jpg" alt="" width="110px" height="145px">
+            <img class="rounded-4 mx-2" src="./assets/img/ACC 1.jpg" alt="" width="110px" height="145px">
+            <img class="rounded-4 mx-2" src="./assets/img/ACC 1.jpg" alt="" width="110px" height="145px">
+            <img class="rounded-4 mx-2" src="./assets/img/ACC 1.jpg" alt="" width="110px" height="145px">
+            <img class="rounded-4 mx-2" src="./assets/img/ACC 1.jpg" alt="" width="110px" height="145px">
+            <img class="rounded-4 mx-2" src="./assets/img/ACC 1.jpg" alt="" width="110px" height="145px">
           </div>
-          <div class="col-5 d-flex align-items-center">
-            <img class="rounded-4 mx-2" src="./assets/img/ACC 1.jpg" alt="" width="110px" height="145px">
-            <img class="rounded-4 mx-2" src="./assets/img/ACC 1.jpg" alt="" width="110px" height="145px">
-            <img class="rounded-4 mx-2" src="./assets/img/ACC 1.jpg" alt="" width="110px" height="145px">
-            <img class="rounded-4 mx-2" src="./assets/img/ACC 1.jpg" alt="" width="110px" height="145px">
+          <div class="col-2 ms-4 d-flex justify-content-center align-items-center">
+            <h1 class="text-light" style="font-size: 30px;">NEW ITEMS, <br> NEW LOOK.</h1>
           </div>
-          <div class="col-3 d-flex justify-content-end align-items-center">
-            <h1 class="text-light ">NEW ITEMS, <br> NEW LOOK.</h1>
-          </div>
-          <div class="col-2 text-end">
+          <div class="col-2 ms-2 d-flex justify-content-end align-items-center">
             <img class="rounded-4" style="mix-blend-mode: hard-light" src="assets/img/NEW FOTO.png" alt="" width="210px" height="200px">
-          </div>
-          <div class="col-1">
           </div>
         </div>
       </div>

@@ -51,7 +51,7 @@
   <main class="main">
     <section class="category_items light-background">
       <div class="container mt-5">
-        <div class="row gy-4 gx-5">
+        <div class="row gy-3 gx-5 mb-5">
           <div class="col-12 text-start">
             <h1 style="font-size: 15px;">
               <a href="top_items.php">Topㅤㅤ</a>

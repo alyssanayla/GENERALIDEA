@@ -227,6 +227,10 @@ background: linear-gradient(90deg, rgba(87,16,38,1) 17%, rgba(212,194,180,1) 53%
     background: linear-gradient(90deg, rgba(87,16,38,1) 15%, rgba(212,194,180,1) 56%, rgba(87,16,38,0.8) 100%);
   }
 
+  .navbar-custom {
+background: #D4C2B4;
+  }
+
   .navmenu {
     padding: 0;
   }
@@ -594,6 +598,29 @@ background: linear-gradient(90deg, rgba(87,16,38,1) 17%, rgba(212,194,180,1) 53%
 /*--------------------------------------------------------------
 # Global Sections
 --------------------------------------------------------------*/
+.body-custom {
+color: #ffffff;
+background: #571026;
+}
+
+.btn-custom {
+color: #000000;
+background: #ffffff;
+}
+
+.btn-custom:hover {
+color: #D4C2B4;
+background: #571026;
+}
+
+.formcustom {
+  background: #D4C2B4;
+  ;
+}
+
+.form-label {
+  color: #000000;
+}
 
 section,
 .section {

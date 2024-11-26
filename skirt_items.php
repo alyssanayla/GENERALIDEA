@@ -46,7 +46,7 @@
   <main class="main">
   <section class="category_items light-background">
       <div class="container mt-5">
-        <div class="row gy-4 gx-5">
+        <div class="row gy-3 gx-5 mb-5">
           <div class="col-12 text-start">
             <h1 style="font-size: 15px;">
               <a href="top_items.php">Topㅤㅤ</a>
@@ -57,49 +57,59 @@
               <a href="acc_items.php">Acc</a>
             </h1>
           </div>
-        <div class="col-3 text-center">
-          <img id="skirt_1" judul="Eco-leather pintuck [BROWN]" harga="$49" class="img-fluid rounded-4" src="assets/img/skirt1.jpg">
+          <div class="col-3 text-center">
+            <img id="skirt_1" name="Eco-leather pintuck [BROWN]" price="49" class="items_img img-fluid rounded-4" src="assets/img/skirt1.jpg">
+            <p class="items_ket">Pintuck Long [BROWN]</br><span>$49</span></p>
+          </div>
+          <div class="col-3 text-center">
+            <img id="skirt_2" name="wool pleats [BROWN]" price="64" class="items_img img-fluid rounded-4" src="assets/img/skirt2.jpg">
+            <p class="items_ket">Wool Pleats [BROWN]</br><span>$64</span></p>
+          </div>
+          <div class="col-3 text-center">
+            <img id="skirt_3" name="leather balloon [BLACK]" price="47" class="items_img img-fluid rounded-4" src="assets/img/skirt3.jpg">
+            <p class="items_ket">Leather Balloon [BLACK]</br><span>$47</span></p>
+          </div>
+          <div class="col-3 text-center">
+            <img id="skirt_4" name="Volume shirring [WHITE]" price="37" class="items_img img-fluid rounded-4" src="assets/img/skirt4.jpg">
+            <p class="items_ket">Volume shirring [WHITE]</br><span>$37</span></p>
+          </div>
+          <div class="col-3 text-center">
+            <img id="skirt_5" name="Crochet Layered [BLACK]" price="27" class="items_img img-fluid rounded-4" src="assets/img/skirt5.jpg">
+            <p class="items_ket">Crochet Layered [BLACK]</br><span>$27</span></p>
+          </div>
+          <div class="col-3 text-center">
+            <img id="skirt_6" name="Low rise cotton slit [BEIGE]" price="41" class="items_img img-fluid rounded-4" src="assets/img/skirt6.jpg">
+            <p class="items_ket">Short Cotton Slit [BEIGE]</br><span>$41</span></p>
+          </div>
+          <div class="col-3 text-center">
+            <img id="skirt_7" name="Eco-leather pintuck [MUD]" price="49" class="items_img img-fluid rounded-4" src="assets/img/skirt7.jpg">
+            <p class="items_ket">Eco-leather pintuck [MUD]</br><span>$49</span></p>
+          </div>
+          <div class="col-3 text-center">
+            <img id="skirt_8" name="H-line Eco Leather [BLACK]" price="44" class="items_img img-fluid rounded-4" src="assets/img/skirt8.jpg">
+            <p class="items_ket">H-line Eco Leather [BLACK]</br><span>$44</span></p>
+          </div>
+          <div class="col-3 text-center">
+            <img id="skirt_9" name="Low rise cotton slit [KHAKI]" price="41" class="items_img img-fluid rounded-4" src="assets/img/skirt9.jpg">
+            <p class="items_ket">Low rise cotton slit [KHAKI]</br><span>$41</span></p>
+          </div>
+          <div class="col-3 text-center">
+            <img id="skirt_10" name="Crochet Layered [WHITE]" price="27" class="items_img img-fluid rounded-4" src="assets/img/skirt10.jpg">
+            <p class="items_ket">Crochet Layered [WHITE]</br><span>$27</span></p>
+          </div>
+          <div class="col-3 text-center">
+            <img id="skirt_11" name="Wool Pleats [GREY]" price="64" class="items_img img-fluid rounded-4" src="assets/img/skirt11.jpg">
+            <p class="items_ket">Wool Pleats [GREY]</br><span>$64</span></p>
+          </div>
+          <div class="col-3 text-center">
+            <img id="skirt_12" name="Low rise cotton slit [BLACK]" price="41" class="items_img img-fluid rounded-4 rounded-4" src="assets/img/skirt12.jpg">
+            <p class="items_ket">Low rise cotton slit [BLACK]</br><span>$41</span></p>
+          </div>
         </div>
-        <div class="col-3 text-center">
-          <img id="skirt_2" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/skirt2.jpg">
-        </div>
-        <div class="col-3 text-center">
-          <img id="skirt_3" judul="Eco-leather pintuck [BROWN]" harga="$49" class="img-fluid rounded-4" src="assets/img/skirt3.jpg">
-        </div>
-        <div class="col-3 text-center">
-          <img id="skirt_4" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/skirt4.jpg">
-        </div>
-        <div class="col-3 text-center">
-          <img id="skirt_5" judul="Eco-leather pintuck [BROWN]" harga="$49" class="img-fluid rounded-4" src="assets/img/skirt5.jpg">
-        </div>
-        <div class="col-3 text-center">
-          <img id="skirt_6" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/skirt6.jpg">
-        </div>
-        <div class="col-3 text-center">
-          <img id="skirt_7" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/skirt7.jpg">
-        </div>
-        <div class="col-3 text-center">
-          <img id="skirt_8" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/skirt8.jpg">
-        </div>
-        <div class="col-3 text-center">
-          <img id="skirt_9" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/skirt9.jpg">
-        </div>
-        <div class="col-3 text-center">
-          <img id="skirt_10" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/skirt10.jpg">
-        </div>
-        <div class="col-3 text-center">
-          <img id="skirt_11" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/skirt11.jpg">
-        </div>
-        <div class="col-3 text-center">
-          <img id="skirt_12" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/skirt12.jpg">
-        </div>
-
       </div>
-    </div>
   </section>
-
-
 </main>
+
 <footer id="footer" class="footer">
     <div class="container footer-top">
       <div class="row gy-4">
@@ -135,8 +145,8 @@
               <div id="foto"></div>
             </div>
             <div class="col-6 text-center">
-              <h5 id="judul"></h5>
-              <p id="harga"></p>
+              <h5 id="name"></h5>
+              <p id="price"></p>
               <div class="mb-3 row g-3">
                 <label class="col-sm-4 col-form-label">SIZE</label>
                 <div class="col-sm-8">
@@ -166,24 +176,24 @@
   $(document).ready(function(){
    $("img").click(function(){
     $('#staticBackdrop').modal('show');
-    $('#output, #judul, #harga').text('');
+    $('#output, #name, #price').text('');
     $("#size").val('');
     var src = $(this).attr('src');
     var id = $(this).attr('id');
-    var judul = $(this).attr('judul');
-    var harga = $(this).attr('harga');
+    var name = $(this).attr('name');
+    var price = $(this).attr('price');
     
-    $('#judul').text(judul);
-    $('#harga').text(harga);
+    $('#name').text(name);
+    $('#price').text(price);
     $('#foto').html('<img class="img-fluid" src="'+src+'">');
     console.log(id+' '+src);
   });
 
    $("#size").click(function(){
     var size = $(this).val();
-    var judul = $('#judul').text();
+    var name = $('#name').text();
     if (size != '') {
-      $('#output').text(judul+' SIZE '+size);
+      $('#output').text(name+' SIZE '+size);
     }
 
     //console.log(size);

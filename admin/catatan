@@ -1,0 +1,34 @@
+<form method="post" enctype="multipart/form-data">
+    CATEGORY <select name="id_category">
+        <option value="1">Top</option>
+        <option value="2">Outerwear</option>
+        <option value="3">Skirt</option>
+        <option value="4">Bottom</option>
+        <option value="5">Dress</option>
+        <option value="6">Acc</option>
+    </select><br>
+    NAME : <input type="text" name="name"><br>
+    IMAGE : <input type="file" name="image"><br>
+    PRICE : <input type="text" name="price"><br>
+    SIZE : <input type="text" name="size"><br>
+    <button name="submit" type="submit">INPUT</button>
+</form>
+
+<?php
+if (isset($_POST['submit'])) {
+    $kategori = $_POST['id_category'];
+    $nama =  $_POST['name'];
+    $harga =  $_POST['price'];
+    $ukuran =  $_POST['size'];
+
+    $gambar = $_FILES['image']["name"];
+    $tempname = $_FILES['image']["tmp_name"];
+    $folder = "../assets/img/".$gambar;
+    if (move_uploaded_file($tempname, $folder)) {
+        //echo '<img src="'.$folder.'">';
+    } 
+}
+?>
+
+
+SELECT product.id, category.name, product.name,product.image, product.price, product.size FROM `product` JOIN category ON category.id_category = product.id_category;

@@ -45,8 +45,8 @@
 
 <main class="main">
   <section class="category_items light-background">
-      <div class="container mt-5">
-        <div class="row gy-4 gx-5">
+  <div class="container mt-5">
+        <div class="row gy-3 gx-5 mb-5">
           <div class="col-12 text-start">
             <h1 style="font-size: 15px;">
               <a href="top_items.php">Topㅤㅤ</a>
@@ -57,45 +57,56 @@
               <a href="acc_items.php">Acc</a>
             </h1>
           </div>
-        <div class="col-3 text-center">
-          <img id="outerwear_1" judul="Eco-leather pintuck [BROWN]" harga="$49" class="img-fluid rounded-4" src="assets/img/outerwear1.jpg">
-          <p class="items_ket">Wool Turtleneck [BURGUNDURY]</br><span>$32</span></p>
-        </div>
-        <div class="col-3 text-center">
-          <img id="outerwear_2" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/outerwear2.jpg">
-        </div>
-        <div class="col-3 text-center">
-          <img id="outerwear_3" judul="Eco-leather pintuck [BROWN]" harga="$49" class="img-fluid rounded-4" src="assets/img/outerwear3.jpg">
-        </div>
-        <div class="col-3 text-center">
-          <img id="outerwear_4" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/outerwear4.jpg">
-        </div>
-        <div class="col-3 text-center">
-          <img id="outerwear_5" judul="Eco-leather pintuck [BROWN]" harga="$49" class="img-fluid rounded-4" src="assets/img/outerwear5.jpg">
-        </div>
-        <div class="col-3 text-center">
-          <img id="outerwear_6" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/outerwear6.jpg">
-        </div>
-        <div class="col-3 text-center">
-          <img id="outerwear_7" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/outerwear7.jpg">
-        </div>
-        <div class="col-3 text-center">
-          <img id="outerwear_8" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/outerwear8.jpg">
-        </div>
-        <div class="col-3 text-center">
-          <img id="outerwear_9" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/outerwear9.jpg">
-        </div>
-        <div class="col-3 text-center">
-          <img id="outerwear_10" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/outerwear10.jpg">
-        </div>
-        <div class="col-3 text-center">
-          <img id="outerwear_11" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/outerwear11.jpg">
-        </div>
-        <div class="col-3 text-center">
-          <img id="outerwear_12" judul="pintuck [BROWN]" harga="$30" class="img-fluid rounded-4" src="assets/img/outerwear12.jpg">
+          <div class="col-3 text-center">
+            <img id="outerwear_1" judul="Wool Turtleneck [BURGUNDURY]" harga="32" class="items_img img-fluid rounded-4" src="assets/img/outerwear1.jpg">
+            <p class="items_ket">Cable Cardigan [KHAKI]</br><span>$65</span></p>
+          </div>
+          <div class="col-3 text-center">
+            <img id="outerwear_2" judul="Lettering T-Shirt [GREY]" harga="36" class="items_img img-fluid rounded-4" src="assets/img/outerwear2.jpg">
+            <p class="items_ket">GNRL Cardigan [NAVY]</br><span>$43</span></p>
+          </div>
+          <div class="col-3 text-center">
+            <img id="outerwear_3" judul="Pearl Knitwear [PINK]" harga="39" class="items_img img-fluid rounded-4" src="assets/img/outerwear3.jpg">
+            <p class="items_ket">Bomber Jacket [BLACK]</br><span>$115</span></p>
+          </div>
+          <div class="col-3 text-center">
+            <img id="outerwear_4" judul="Linkless Shirt [KHAKI]" harga="29" class="items_img img-fluid rounded-4" src="assets/img/outerwear4.jpg">
+            <p class="items_ket">Work Jacket [OLIVE KHAKI]</br><span>$101</span></p>
+          </div>
+          <div class="col-3 text-center">
+            <img id="outerwear_5" judul="Belted Shirt [DARK BLUE]" harga="48" class="items_img img-fluid rounded-4" src="assets/img/outerwear5.jpg">
+            <p class="items_ket">Hairy Cardigan [LIME]</br><span>$50</span></p>
+          </div>
+          <div class="col-3 text-center">
+            <img id="outerwear_6" judul="Scarf V-Neck [BEIGE]" harga="33" class="items_img img-fluid rounded-4" src="assets/img/outerwear6.jpg">
+            <p class="items_ket">Nordic Cardigan [MOCHA]</br><span>$57</span></p>
+          </div>
+          <div class="col-3 text-center">
+            <img id="outerwear_7" judul="Postman T-Shirt [DUST BLUE]" harga="34" class="items_img img-fluid rounded-4" src="assets/img/outerwear7.jpg">
+            <p class="items_ket">Pearl Cardigan [GREY]</br><span>$49</span></p>
+          </div>
+          <div class="col-3 text-center">
+            <img id="outerwear_8" judul="Unbalanced T-Shirt BLACK]" harga="28" class="items_img img-fluid rounded-4" src="assets/img/outerwear8.jpg">
+            <p class="items_ket">Tweed Jacket [BLACK]</br><span>$69</span></p>
+          </div>
+          <div class="col-3 text-center">
+            <img id="outerwear_9" judul="Striped T-Shirt [DEEP RED]" harga="26" class="items_img img-fluid rounded-4" src="assets/img/outerwear9.jpg">
+            <p class="items_ket">V-Neck Cardigan [MINT]</br><span>$48</span></p>
+          </div>
+          <div class="col-3 text-center">
+            <img id="outerwear_10" judul="Square T-Shirt [BLACK]" harga="30" class="items_img img-fluid rounded-4" src="assets/img/outerwear10.jpg">
+            <p class="items_ket">Short Puffer [PINK]</br><span>$72</span></p>
+          </div>
+          <div class="col-3 text-center">
+            <img id="outerwear_11" judul="Layered V-Neck [CHARCOAL]" harga="31" class="items_img img-fluid rounded-4" src="assets/img/outerwear11.jpg">
+            <p class="items_ket">Glossy Jumper [MINT GREY]</br><span>$56</span></p>
+          </div>
+          <div class="col-3 text-center">
+            <img id="outerwear_12" judul="Half Layered T-Shirt [KHAKI]" harga="42" class="items_img img-fluid rounded-4 rounded-4" src="assets/img/outerwear12.jpg">
+            <p class="items_ket">Vintage Jumper [BROWN]</br><span>$93</span></p>
+          </div>
         </div>
       </div>
-    </div>
   </section>
 </main>
 

@@ -58,51 +58,51 @@
             </h1>
           </div>
           <div class="col-3 text-center">
-            <img id="top_1" judul="Wool Turtleneck [BURGUNDURY]" harga="32" class="items_img img-fluid rounded-4" src="assets/img/top1.jpg">
+            <img id="top_1" name="Wool Turtleneck [BURGUNDURY]" price="32" class="items_img img-fluid rounded-4" src="assets/img/top1.jpg">
             <p class="items_ket">Wool Turtleneck [BURGUNDURY]</br><span>$32</span></p>
           </div>
           <div class="col-3 text-center">
-            <img id="top_2" judul="Lettering T-Shirt [GREY]" harga="36" class="items_img img-fluid rounded-4" src="assets/img/top2.jpg">
+            <img id="top_2" name="Lettering T-Shirt [GREY]" price="36" class="items_img img-fluid rounded-4" src="assets/img/top2.jpg">
             <p class="items_ket">Lettering T-Shirt [GREY]</br><span>$36</span></p>
           </div>
           <div class="col-3 text-center">
-            <img id="top_3" judul="Pearl Knitwear [PINK]" harga="39" class="items_img img-fluid rounded-4" src="assets/img/top3.jpg">
+            <img id="top_3" name="Pearl Knitwear [PINK]" price="39" class="items_img img-fluid rounded-4" src="assets/img/top3.jpg">
             <p class="items_ket">Pearl Knitwear [PINK]</br><span>$39</span></p>
           </div>
           <div class="col-3 text-center">
-            <img id="top_4" judul="Linkless Shirt [KHAKI]" harga="29" class="items_img img-fluid rounded-4" src="assets/img/top4.jpg">
+            <img id="top_4" name="Linkless Shirt [KHAKI]" price="29" class="items_img img-fluid rounded-4" src="assets/img/top4.jpg">
             <p class="items_ket">Linkless Shirt [KHAKI]</br><span>$29</span></p>
           </div>
           <div class="col-3 text-center">
-            <img id="top_5" judul="Belted Shirt [DARK BLUE]" harga="48" class="items_img img-fluid rounded-4" src="assets/img/top5.jpg">
+            <img id="top_5" name="Belted Shirt [DARK BLUE]" price="48" class="items_img img-fluid rounded-4" src="assets/img/top5.jpg">
             <p class="items_ket">Belted Shirt [DARK BLUE]</br><span>$48</span></p>
           </div>
           <div class="col-3 text-center">
-            <img id="top_6" judul="Scarf V-Neck [BEIGE]" harga="33" class="items_img img-fluid rounded-4" src="assets/img/top6.jpg">
+            <img id="top_6" name="Scarf V-Neck [BEIGE]" price="33" class="items_img img-fluid rounded-4" src="assets/img/top6.jpg">
             <p class="items_ket">Scarf V-Neck [BEIGE]</br><span>$33</span></p>
           </div>
           <div class="col-3 text-center">
-            <img id="top_7" judul="Postman T-Shirt [DUST BLUE]" harga="34" class="items_img img-fluid rounded-4" src="assets/img/top7.jpg">
+            <img id="top_7" name="Postman T-Shirt [DUST BLUE]" price="34" class="items_img img-fluid rounded-4" src="assets/img/top7.jpg">
             <p class="items_ket">Postman T-Shirt [DUST BLUE]</br><span>$34</span></p>
           </div>
           <div class="col-3 text-center">
-            <img id="top_8" judul="Unbalanced T-Shirt BLACK]" harga="28" class="items_img img-fluid rounded-4" src="assets/img/top8.jpg">
+            <img id="top_8" name="Unbalanced T-Shirt BLACK]" price="28" class="items_img img-fluid rounded-4" src="assets/img/top8.jpg">
             <p class="items_ket">Unbalanced T-Shirt [BLACK]</br><span>$28</span></p>
           </div>
           <div class="col-3 text-center">
-            <img id="top_9" judul="Striped T-Shirt [DEEP RED]" harga="26" class="items_img img-fluid rounded-4" src="assets/img/top9.jpg">
+            <img id="top_9" name="Striped T-Shirt [DEEP RED]" price="26" class="items_img img-fluid rounded-4" src="assets/img/top9.jpg">
             <p class="items_ket">Striped T-Shirt [DEEP RED]</br><span>$26</span></p>
           </div>
           <div class="col-3 text-center">
-            <img id="top_10" judul="Square T-Shirt [BLACK]" harga="30" class="items_img img-fluid rounded-4" src="assets/img/top10.jpg">
+            <img id="top_10" name="Square T-Shirt [BLACK]" price="30" class="items_img img-fluid rounded-4" src="assets/img/top10.jpg">
             <p class="items_ket">Square T-Shirt [BLACK]</br><span>$30</span></p>
           </div>
           <div class="col-3 text-center">
-            <img id="top_11" judul="Layered V-Neck [CHARCOAL]" harga="31" class="items_img img-fluid rounded-4" src="assets/img/top11.jpg">
+            <img id="top_11" name="Layered V-Neck [CHARCOAL]" price="31" class="items_img img-fluid rounded-4" src="assets/img/top11.jpg">
             <p class="items_ket">Layered V-Neck [CHARCOAL]</br><span>$31</span></p>
           </div>
           <div class="col-3 text-center">
-            <img id="top_12" judul="Half Layered T-Shirt [KHAKI]" harga="42" class="items_img img-fluid rounded-4 rounded-4" src="assets/img/top12.jpg">
+            <img id="top_12" name="Half Layered T-Shirt [KHAKI]" price="42" class="items_img img-fluid rounded-4 rounded-4" src="assets/img/top12.jpg">
             <p class="items_ket">Half Layered T-Shirt [KHAKI]</br><span>$42</span></p>
           </div>
         </div>
@@ -144,8 +144,8 @@
                 <div id="foto"></div>
               </div>
               <div class="col-8 text-center">
-                <h5 id="judul"></h5>
-                <p>$<span id="harga"></span></p>
+                <h5 id="name"></h5>
+                <p>$<span id="price"></span></p>
                 <div class="mb-3 row ps-4">
                   <label class="col-sm-4 col-form-label">SIZE</label>
                   <div class="col-sm-8">
@@ -193,28 +193,28 @@
       $(document).ready(function() {
         $("img").click(function() {
           $('#staticBackdrop').modal('show');
-          $('#outputt, #outputs, #judul, #harga').text('');
+          $('#outputt, #outputs, #name, #price').text('');
           $('#jml').css('display', 'none');
           $('#pilih').val('');
           $('#subtotal').text('0');
           $("#size").val('');
           var src = $(this).attr('src');
           var id = $(this).attr('id');
-          var judul = $(this).attr('judul');
-          var harga = $(this).attr('harga');
+          var name = $(this).attr('name');
+          var price = $(this).attr('price');
 
-          $('#judul').text(judul);
-          $('#harga').text(harga);
+          $('#name').text(name);
+          $('#price').text(price);
           $('#foto').html('<img class="img-fluid" src="' + src + '">');
           console.log(id + ' ' + src);
         });
 
         $("#size").click(function() {
           var size = $(this).val();
-          var judul = $('#judul').text();
+          var name = $('#name').text();
           if (size != '') {
             $('#jml').css('display', 'block');
-            $('#outputt').text(judul);
+            $('#outputt').text(name);
             $('#outputs').text(' SIZE ' + size);
           }
           //console.log(size);
@@ -222,7 +222,7 @@
 
         $("#pilih").change(function() {
           var jml = $(this).val();
-          var hrg = $('#harga').text();
+          var hrg = $('#price').text();
           $('#subtotal').text((jml * hrg));
           console.log(jml + ' ' + hrg + ' ' + (jml * hrg));
         });
